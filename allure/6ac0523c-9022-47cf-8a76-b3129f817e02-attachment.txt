@@ -1,0 +1,12 @@
+INFO     testCase:test_newFenqi.py:19 开始执行新建分期测试用例
+INFO     testCase:bassPage.py:125 输入文本正常 : 登录 : 用户名 : test
+INFO     testCase:bassPage.py:125 输入文本正常 : 登录 : 密码 : 123456
+INFO     testCase:bassPage.py:135 点击元素正常 : 登录 : 登录按钮
+INFO     testCase:bassPage.py:135 点击元素正常 : 首页 : 招商
+INFO     testCase:bassPage.py:135 点击元素正常 : 资源配置 : 新建分期
+INFO     testCase:bassPage.py:125 输入文本正常 : 资源配置 : 分期数 : 20
+INFO     testCase:bassPage.py:125 输入文本正常 : 资源配置 : 分期别名 : 2020新建分期
+INFO     testCase:bassPage.py:125 输入文本正常 : 资源配置 : 建筑面积 : 100000
+INFO     testCase:bassPage.py:125 输入文本正常 : 资源配置 : 容积率 : 20
+INFO     testCase:bassPage.py:135 点击元素正常 : 资源配置 : 保存
+INFO     testCase:bassPage.py:175 获取提示信息成功 : 数据保存成功！

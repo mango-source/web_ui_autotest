@@ -1,0 +1,46 @@
+2020-07-17 11:41:23,827 INFO bassPage.py-144 msg:获取文本正常:登录::登录按钮::登录
+2020-07-17 11:43:21,728 INFO bassPage.py-144 msg:获取文本正常:      登录::    登录按钮::      登录
+2020-07-17 16:54:14,997 ERROR handleRequest.py-28 msg:暂不支持post请求方法，请确认后重试
+2020-07-17 17:59:34,698 INFO test_newFenqi.py-18 msg:开始执行新建分期测试用例
+2020-07-17 18:02:24,781 INFO test_newFenqi.py-18 msg:开始执行新建分期测试用例
+2020-07-17 18:02:47,890 INFO bassPage.py-124 msg:输入文本正常 : 登录 : 用户名 : test
+2020-07-17 18:02:48,033 INFO bassPage.py-124 msg:输入文本正常 : 登录 : 密码 : 123456
+2020-07-17 18:02:48,117 INFO bassPage.py-134 msg:点击元素正常 : 登录 : 登录按钮
+2020-07-17 18:02:49,225 INFO bassPage.py-134 msg:点击元素正常 : 首页 : 招商
+2020-07-17 18:02:55,627 ERROR bassPage.py-71 msg:元素定位失败<xpath:://*[@id="content"]/div[1]/div/div/div[1]/div[2]/div[1]/div[1]/button/span>
+2020-07-17 18:02:59,745 INFO test_newFenqi.py-40 msg:新建分期测试用例执行结束
+2020-07-17 18:04:21,369 INFO test_newFenqi.py-18 msg:开始执行新建分期测试用例
+2020-07-17 18:04:43,321 INFO bassPage.py-124 msg:输入文本正常 : 登录 : 用户名 : test
+2020-07-17 18:04:43,461 INFO bassPage.py-124 msg:输入文本正常 : 登录 : 密码 : 123456
+2020-07-17 18:04:43,530 INFO bassPage.py-134 msg:点击元素正常 : 登录 : 登录按钮
+2020-07-17 18:04:44,648 INFO bassPage.py-134 msg:点击元素正常 : 首页 : 招商
+2020-07-17 18:04:51,171 ERROR bassPage.py-71 msg:元素定位失败<xpath:://*[@id="content"]/div[1]/div/div/div[1]/div[2]/div[1]/div[1]/button>
+2020-07-17 18:04:55,279 INFO test_newFenqi.py-40 msg:新建分期测试用例执行结束
+2020-07-17 18:05:22,437 INFO test_newFenqi.py-19 msg:开始执行新建分期测试用例
+2020-07-17 18:05:44,562 INFO bassPage.py-124 msg:输入文本正常 : 登录 : 用户名 : test
+2020-07-17 18:05:44,693 INFO bassPage.py-124 msg:输入文本正常 : 登录 : 密码 : 123456
+2020-07-17 18:05:44,773 INFO bassPage.py-134 msg:点击元素正常 : 登录 : 登录按钮
+2020-07-17 18:05:45,844 INFO bassPage.py-134 msg:点击元素正常 : 首页 : 招商
+2020-07-17 18:05:54,349 ERROR bassPage.py-71 msg:元素定位失败<xpath:://*[@id="content"]/div[1]/div/div/div[1]/div[2]/div[1]/div[1]/button>
+2020-07-17 18:05:58,469 INFO test_newFenqi.py-41 msg:新建分期测试用例执行结束
+2020-07-17 18:06:45,542 INFO test_newFenqi.py-19 msg:开始执行新建分期测试用例
+2020-07-17 18:07:07,344 INFO bassPage.py-124 msg:输入文本正常 : 登录 : 用户名 : test
+2020-07-17 18:07:07,521 INFO bassPage.py-124 msg:输入文本正常 : 登录 : 密码 : 123456
+2020-07-17 18:07:07,593 INFO bassPage.py-134 msg:点击元素正常 : 登录 : 登录按钮
+2020-07-17 18:07:08,772 INFO bassPage.py-134 msg:点击元素正常 : 首页 : 招商
+2020-07-17 18:07:10,898 INFO bassPage.py-134 msg:点击元素正常 : 资源配置 : 新建分期
+2020-07-17 18:07:11,000 INFO bassPage.py-124 msg:输入文本正常 : 资源配置 : 分期数 : 20
+2020-07-17 18:07:11,117 INFO bassPage.py-124 msg:输入文本正常 : 资源配置 : 分期别名 : 2020新建分期
+2020-07-17 18:07:11,317 INFO test_newFenqi.py-41 msg:新建分期测试用例执行结束
+2020-07-17 18:07:49,102 INFO test_newFenqi.py-19 msg:开始执行新建分期测试用例
+2020-07-17 18:08:11,612 INFO bassPage.py-124 msg:输入文本正常 : 登录 : 用户名 : test
+2020-07-17 18:08:11,758 INFO bassPage.py-124 msg:输入文本正常 : 登录 : 密码 : 123456
+2020-07-17 18:08:11,839 INFO bassPage.py-134 msg:点击元素正常 : 登录 : 登录按钮
+2020-07-17 18:08:13,064 INFO bassPage.py-134 msg:点击元素正常 : 首页 : 招商
+2020-07-17 18:08:15,177 INFO bassPage.py-134 msg:点击元素正常 : 资源配置 : 新建分期
+2020-07-17 18:08:15,267 INFO bassPage.py-124 msg:输入文本正常 : 资源配置 : 分期数 : 20
+2020-07-17 18:08:15,396 INFO bassPage.py-124 msg:输入文本正常 : 资源配置 : 分期别名 : 2020新建分期
+2020-07-17 18:08:15,512 INFO bassPage.py-124 msg:输入文本正常 : 资源配置 : 建筑面积 : 100000
+2020-07-17 18:08:15,605 INFO bassPage.py-124 msg:输入文本正常 : 资源配置 : 容积率 : 20
+2020-07-17 18:08:15,661 INFO bassPage.py-134 msg:点击元素正常 : 资源配置 : 保存
+2020-07-17 18:08:20,181 INFO test_newFenqi.py-41 msg:新建分期测试用例执行结束
